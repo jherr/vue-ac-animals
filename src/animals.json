@@ -1,0 +1,2876 @@
+[
+  {
+    "months": [
+      "jan",
+      "feb",
+      "nov",
+      "dec"
+    ],
+    "name": "Bitterling",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/Bitterling_HHD_Icon.png/revision/latest?cb=20161105193556",
+    "price": "900",
+    "location": "River",
+    "shadowSize": "1",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Pale chub",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/Pale_Chub_HHD_Icon.png/revision/latest?cb=20161105202841",
+    "price": "200",
+    "location": "River",
+    "shadowSize": "1",
+    "time": "9 AM - 4 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Crucian carp",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/Crucian_Carp_HHD_Icon.png/revision/latest?cb=20161105194656",
+    "price": "120",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Dace",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/Dace_HHD_Icon.png/revision/latest?cb=20161105194718",
+    "price": "200",
+    "location": "River",
+    "shadowSize": "3",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Barbel steed",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/Barbel_Steed_HHD_Icon.png/revision/latest?cb=20161105193448",
+    "price": "200",
+    "location": "River",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Carp",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Carp_HHD_Icon.png/revision/latest?cb=20161105194314",
+    "price": "300",
+    "location": "River",
+    "shadowSize": "4",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Koi",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/Koi_HHD_Icon.png/revision/latest?cb=20161105201225",
+    "price": "4,000",
+    "location": "River",
+    "shadowSize": "4",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Goldfish",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/Goldfish_HHD_Icon.png/revision/latest?cb=20161105195723",
+    "price": "1,300",
+    "location": "River",
+    "shadowSize": "1",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Popeyed goldfish",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/Popeyed_Goldfish_HHD_Icon.png/revision/latest?cb=20161105203311",
+    "price": "1,300",
+    "location": "River",
+    "shadowSize": "1",
+    "time": "9 AM - 4 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Killifish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "Pond",
+    "shadowSize": "1",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Crawfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "location": "Pond",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "aug",
+      "sep"
+    ],
+    "name": "Soft-shelled turtle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "3,750",
+    "location": "River",
+    "shadowSize": "3",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul"
+    ],
+    "name": "Tadpole",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "100",
+    "location": "Pond",
+    "shadowSize": "1",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Frog",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "120",
+    "location": "Pond",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Freshwater goby",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may"
+    ],
+    "name": "Loach",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "Catfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "800",
+    "location": "Lake",
+    "shadowSize": "4",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Eel",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,000",
+    "location": "River",
+    "shadowSize": "Narrow",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Giant snakehead",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "5,500",
+    "location": "Lake",
+    "shadowSize": "5",
+    "time": "9 AM - 4 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Bluegill",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "120",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "9 AM - 4 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Yellow perch",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "240",
+    "location": "River",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Black bass",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "River",
+    "shadowSize": "4",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Pike",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,800",
+    "location": "River",
+    "shadowSize": "5",
+    "time": "4 AM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "dec"
+    ],
+    "name": "Pond smelt",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Sweetfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "900",
+    "location": "River",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Cherry salmon",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "location": "River",
+    "shadowSize": "3",
+    "time": "4 AM - 9 AM & 4 PM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Char",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "3,800",
+    "location": "Waterfall",
+    "shadowSize": "3",
+    "time": "4 AM - 9 AM & 4 PM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Rainbow trout",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "800",
+    "location": "River",
+    "shadowSize": "4",
+    "time": "4 AM - 9 AM & 4 PM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "dec"
+    ],
+    "name": "Stringfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "15,000",
+    "location": "River",
+    "shadowSize": "6",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "sep"
+    ],
+    "name": "Salmon",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "700",
+    "location": "River*",
+    "shadowSize": "4",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "sep"
+    ],
+    "name": "King salmon",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,800",
+    "location": "Waterfall",
+    "shadowSize": "6",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "oct",
+      "nov"
+    ],
+    "name": "Mitten crab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,000",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Guppy",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,300",
+    "location": "River",
+    "shadowSize": "1",
+    "time": "9 AM - 4 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Nibble fish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,500",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "9 AM - 4 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "Angelfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "3,000",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Neon tetra",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "500",
+    "location": "River",
+    "shadowSize": "1",
+    "time": "9 AM - 4 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Piranha",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,500",
+    "location": "River",
+    "shadowSize": "2",
+    "time": "9 AM - 4 PM & 9 PM - 4 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Arowana",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "10,000",
+    "location": "River",
+    "shadowSize": "4",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Dorado",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "15,000",
+    "location": "River",
+    "shadowSize": "5",
+    "time": "4 AM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Gar",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "6,000",
+    "location": "Lake",
+    "shadowSize": "6",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Arapaima",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "10,000",
+    "location": "River",
+    "shadowSize": "6",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Saddled bichir",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "4,000",
+    "location": "River",
+    "shadowSize": "4",
+    "time": "9 PM - 4 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "dec"
+    ],
+    "name": "Sea butterfly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "location": "Ocean",
+    "shadowSize": "1",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Seahorse",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,100",
+    "location": " Ocean",
+    "shadowSize": "1",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Clownfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "650",
+    "location": " Ocean",
+    "shadowSize": "1",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Surgeonfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "location": " Ocean",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Butterfly fish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "location": " Ocean",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Napoleonfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "10,000",
+    "location": " Ocean",
+    "shadowSize": "6",
+    "time": "4 AM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Zebra turkeyfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "400",
+    "location": " Ocean",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "nov",
+      "dec"
+    ],
+    "name": "Blowfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "125",
+    "location": "Ocean",
+    "shadowSize": "3",
+    "time": "9 PM - 4 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Puffer fish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "240",
+    "location": " Ocean",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Horse mackerel",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "150",
+    "location": " Ocean",
+    "shadowSize": "2",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Barred knifejaw",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "5,000",
+    "location": " Ocean",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Sea bass",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "location": " Ocean",
+    "shadowSize": "5",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Red snapper",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "3,000",
+    "location": " Ocean",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Dab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "Ocean",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Olive flounder",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "800",
+    "location": " Ocean",
+    "shadowSize": "4",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "dec"
+    ],
+    "name": "Squid",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "400",
+    "location": " Ocean",
+    "shadowSize": "3",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "Moray eel",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,000",
+    "location": " Ocean",
+    "shadowSize": "5",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Ribbon eel",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "600",
+    "location": " Island",
+    "shadowSize": "Narrow",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "nov",
+      "dec"
+    ],
+    "name": "Football fish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,500",
+    "location": "Ocean",
+    "shadowSize": "4",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "nov",
+      "dec"
+    ],
+    "name": "Tuna",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "7,000",
+    "location": "Ocean",
+    "shadowSize": "6",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Blue marlin",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "10,000",
+    "location": " Ocean",
+    "shadowSize": "6",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Giant trevally",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "4,500",
+    "location": " Island",
+    "shadowSize": "5",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Ray",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "3,000",
+    "location": " Ocean",
+    "shadowSize": "5",
+    "time": "4 AM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Ocean sunfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "4,000",
+    "location": " Ocean",
+    "shadowSize": "6 (fin)",
+    "time": "4 AM - 9 PM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Hammerhead shark",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "8,000",
+    "location": " Ocean",
+    "shadowSize": "6 (fin)",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Shark",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "15,000",
+    "location": " Ocean",
+    "shadowSize": "6 (fin)",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Saw shark",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "12,000",
+    "location": " Ocean",
+    "shadowSize": "6 (fin)",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Whale shark",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "13,000",
+    "location": " Island",
+    "shadowSize": "6 (fin)",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "dec"
+    ],
+    "name": "Oarfish",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "9,000",
+    "location": "Ocean",
+    "shadowSize": "6",
+    "time": "All day",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Coelacanth",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "15,000",
+    "location": "Ocean (rain or snow)",
+    "shadowSize": "6",
+    "time": "4 PM - 9 AM",
+    "animalType": "fish"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "sep"
+    ],
+    "name": "Common butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/Common_Butterfly_HHD_Icon.png/revision/latest?cb=20161105194447",
+    "price": "90",
+    "location": "Flying near flowers",
+    "time": "4 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "sep"
+    ],
+    "name": "Yellow butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/Yellow_Butterfly_HHD_Icon.png/revision/latest?cb=20161105205712",
+    "price": "90",
+    "location": "Flying near flowers",
+    "time": "6 AM - 4 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Tiger butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/Tiger_Butterfly_HHD_Icon.png/revision/latest?cb=20161105205248",
+    "price": "160",
+    "location": " Flying near flowers*",
+    "time": "8 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Peacock butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/Peacock_Butterfly_HHD_Icon.png/revision/latest?cb=20161105203001",
+    "price": "220",
+    "location": " Flying near flowers*",
+    "time": "4 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Monarch butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/Monarch_Butterfly_HHD_Icon.png/revision/latest?cb=20161105202341",
+    "price": "140",
+    "location": " Flying near flowers",
+    "time": "9 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Emperor butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/Emperor_Butterfly_HHD_Icon.png/revision/latest?cb=20161105195220",
+    "price": "2,500",
+    "location": " Flying near flowers",
+    "time": "8 PM - 7 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Agrias butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/Agrias_Butterfly_HHD_Icon.png/revision/latest?cb=20161105191722",
+    "price": "3,000",
+    "location": " Flying near flowers",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Raja Brooke butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/Raja_Brooke_HHD_Icon.png/revision/latest?cb=20161105203524",
+    "price": "2,500",
+    "location": "Flying near river",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Birdwing butterfly",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/Birdwing_HHD_Icon.png/revision/latest?cb=20161105193546",
+    "price": "4,000",
+    "location": " Flying near flowers",
+    "time": "8 AM - 4 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Moth",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/Moth_HHD_Icon.png/revision/latest?cb=20161105202407",
+    "price": "60",
+    "location": "Flying near lights",
+    "time": "7 PM - 4 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Oak silk moth",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/Oak_Silk_Moth_HHD_Icon.png/revision/latest?cb=20161105202656",
+    "price": "1,200",
+    "location": " On trees",
+    "time": "7 PM - 4 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul"
+    ],
+    "name": "Honeybee",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "100",
+    "location": "Flying near flowers",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Bee",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,500",
+    "location": "In trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Long locust",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "location": " On the ground",
+    "time": "8 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Migratory locust",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "600",
+    "location": " On the ground",
+    "time": "8 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Rice grasshopper",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "400",
+    "location": "On the ground",
+    "time": "8 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Mantis",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "430",
+    "location": " On flowers",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Orchid mantis",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,400",
+    "location": " On white flowers",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Brown cicada",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "location": "On trees",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Robust cicada",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "On trees",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Giant cicada",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "500",
+    "location": "On trees",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Walker cicada",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "400",
+    "location": "On trees",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Evening cicada",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "550",
+    "location": "On trees",
+    "time": "4 PM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Cicada shell",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "100",
+    "location": "On trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Lantern fly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,800",
+    "location": " On trees",
+    "time": "4 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Red dragonfly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "80",
+    "location": "Flying",
+    "time": "8 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Darner dragonfly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "location": "Flying",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Banded dragonfly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "4,500",
+    "location": "Flying",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "Petaltail dragonfly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "8,000",
+    "location": "Flying",
+    "time": "5 PM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Ant",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "80",
+    "location": "On rotten food",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Pondskater",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "130",
+    "location": "Swimming on river or pond",
+    "time": "8 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Diving beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "800",
+    "location": "Swimming on river or pond",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "Stinkbug",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "120",
+    "location": "On trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Snail",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "250",
+    "location": "On bushes (rain)",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Cricket",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "160",
+    "location": "On the ground",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "sep",
+      "oct"
+    ],
+    "name": "Bell cricket",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "430",
+    "location": "On the ground",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Grasshopper",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "160",
+    "location": " On the ground",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "nov",
+      "dec"
+    ],
+    "name": "Mole cricket",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "280",
+    "location": "Underground",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Walking leaf",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "600",
+    "location": "On the ground",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Walking stick",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "600",
+    "location": " On trees",
+    "time": "4 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Bagworm",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "In trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "oct"
+    ],
+    "name": "Ladybug",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "location": "On flowers",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Violin beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "260",
+    "location": "Tree stumps",
+    "time": "4 AM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Longhorn beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "260",
+    "location": " Tree stumps",
+    "time": "11 PM - 7 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "Tiger beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,500",
+    "location": " On the ground",
+    "time": "8 AM - 11 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "dec"
+    ],
+    "name": "Dung beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "800",
+    "location": "Snow balls",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Wharf roach",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "location": " On the beach",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Hermit crab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "location": " On the beach",
+    "time": "7 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun"
+    ],
+    "name": "Firefly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "Flying near river",
+    "time": "7 PM - 4 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Fruit beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "100",
+    "location": " On trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Scarab beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "6,000",
+    "location": " On trees",
+    "time": "11 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Jewel beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,400",
+    "location": " On trees",
+    "time": "8 AM - 5 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Miyama stag",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "location": " On trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Saw stag",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,000",
+    "location": " On trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Giant stag",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "10,000",
+    "location": " On trees",
+    "time": "11 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Rainbow stag",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "10,000",
+    "location": " On trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Cyclommatus stag",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "8,000",
+    "location": " On palm trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Golden stag",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "12,000",
+    "location": " On palm trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug"
+    ],
+    "name": "Horned dynastid",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,350",
+    "location": " On trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Horned atlas",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "8,000",
+    "location": " On palm trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Horned elephant",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "8,000",
+    "location": " On palm trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Horned hercules",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "12,000",
+    "location": " On palm trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Goliath beetle",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "6,000",
+    "location": " On palm trees",
+    "time": "5 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov"
+    ],
+    "name": "Flea",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "70",
+    "location": "On villagers",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Pill bug",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "250",
+    "location": "Under rocks",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Mosquito",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "130",
+    "location": "Flying",
+    "time": "5 PM - 4 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Fly",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "60",
+    "location": "Flying near trash",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "House centipede",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "250",
+    "location": "Under rocks",
+    "time": "7 PM - 8 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Centipede",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "Under rocks",
+    "time": "4 PM - 11 PM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct"
+    ],
+    "name": "Spider",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "location": "In trees",
+    "time": "All day",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Tarantula",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "8,000",
+    "location": "On the ground",
+    "time": "7 PM - 4 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Scorpion",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "8,000",
+    "location": "On the ground",
+    "time": "7 PM - 4 AM",
+    "animalType": "bug"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "nov",
+      "dec"
+    ],
+    "name": "Seaweed",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/Seaweed_HHD_Icon.png/revision/latest?cb=20161105204252",
+    "price": "200",
+    "shadowSize": " Large",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Sea grapes",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/Sea_Grapes_HHD_Icon.png/revision/latest?cb=20161105204232",
+    "price": "600",
+    "shadowSize": " Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Sea urchin",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/Sea_Urchin_HHD_Icon.png/revision/latest?cb=20161105204243",
+    "price": "800",
+    "shadowSize": " Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Acorn barnacle",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/Acorn_Barnacle_HHD_Icon.png/revision/latest?cb=20161105191707",
+    "price": "200",
+    "shadowSize": " Very small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Oyster",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/Oyster_HHD_Icon.png/revision/latest?cb=20161105202826",
+    "price": "400",
+    "shadowSize": "Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Turban shell",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/Turban_Shell_HHD_Icon.png/revision/latest?cb=20161105205359",
+    "price": "300",
+    "shadowSize": "Small",
+    "time": "4 PM - 9 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Abalone",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/Abalone_HHD_Icon.png/revision/latest?cb=20161105191652",
+    "price": "400",
+    "shadowSize": " Medium",
+    "time": "4 PM - 9 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Ear shell",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "shadowSize": " Small",
+    "time": "4 PM - 9 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Clam",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "300",
+    "shadowSize": "Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Pearl oyster",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,600",
+    "shadowSize": "Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Scallop",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "shadowSize": " Medium",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Sea anemone",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "100",
+    "shadowSize": " Medium",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Sea star",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "100",
+    "shadowSize": " Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "nov",
+      "dec"
+    ],
+    "name": "Sea cucumber",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "150",
+    "shadowSize": "Medium",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Sea slug",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "shadowSize": " Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Flatworm",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "200",
+    "shadowSize": " Small",
+    "time": "4 PM - 9 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Mantis shrimp",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,250",
+    "shadowSize": " Small",
+    "time": "4 PM - 9 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Sweet shrimp*",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "650",
+    "shadowSize": "Small",
+    "time": "4 PM - 9 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Tiger prawn",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,600",
+    "shadowSize": " Small",
+    "time": "4 PM - 9 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Spiny lobster*",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "3,000",
+    "shadowSize": "Large",
+    "time": "9 PM - 4 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Lobster",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "2,500",
+    "shadowSize": " Large",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "nov",
+      "dec"
+    ],
+    "name": "Snow crab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "4,000",
+    "shadowSize": "Large",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "nov",
+      "dec"
+    ],
+    "name": "Horsehair crab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "4,000",
+    "shadowSize": "Medium",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "nov",
+      "dec"
+    ],
+    "name": "Red king crab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "6,000",
+    "shadowSize": "Large",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "mar",
+      "apr"
+    ],
+    "name": "Spider crab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "10,000",
+    "shadowSize": "Huge",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Octopus",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,000",
+    "shadowSize": " Medium",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Spotted garden eel",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "600",
+    "shadowSize": " Small",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jun",
+      "jul",
+      "aug"
+    ],
+    "name": "Chambered nautilus",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "900",
+    "shadowSize": " Medium",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "name": "Horseshoe crab",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "1,500",
+    "shadowSize": "Medium",
+    "time": "9 PM - 4 AM",
+    "animalType": "deepSeaCreature"
+  },
+  {
+    "months": [
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec"
+    ],
+    "name": "Giant isopod",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "price": "9,000",
+    "shadowSize": " Medium",
+    "time": "All day",
+    "animalType": "deepSeaCreature"
+  }
+]
